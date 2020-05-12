@@ -7,6 +7,9 @@ owned by group bandit6
 33 bytes in size
 Commands you may need to solve this level
 ls, cd, cat, file, du, find, grep
+################################################################################
+C:\Users\Administrator>ssh bandit6@bandit.labs.overthewire.org -p 2220
+Password: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
 bandit6@bandit:~$ bandit6@bandit:~$ find / -size 33c -user bandit7 -group bandit6
 find: ‘/root’: Permission denied
